@@ -76,11 +76,11 @@ const Index = () => {
             <div className="flex items-center gap-3">
               <img 
                 src="https://cdn.poehali.dev/files/0701b439-8e24-4d0c-b8ca-0bbaf3b6b00c.jpg" 
-                alt="Альбасар" 
+                alt="Алькасар" 
                 className="h-12 w-12 object-contain"
               />
               <div>
-                <h1 className="text-2xl font-bold text-primary">Альбасар</h1>
+                <h1 className="text-2xl font-bold text-primary">Алькасар</h1>
                 <p className="text-xs text-muted-foreground">Отель-клуб</p>
               </div>
             </div>
@@ -118,7 +118,7 @@ const Index = () => {
           <div className="absolute inset-0 bg-gradient-to-b from-black/50 to-black/30" />
         </div>
         <div className="relative z-10 text-center text-white px-4 animate-fade-in">
-          <h2 className="text-5xl md:text-7xl font-bold mb-4">Добро пожаловать в Альбасар</h2>
+          <h2 className="text-5xl md:text-7xl font-bold mb-4">Добро пожаловать в Алькасар</h2>
           <p className="text-xl md:text-2xl mb-8 text-white/90">Уют и комфорт как дома</p>
           <div className="flex gap-4 justify-center">
             <Button size="lg" onClick={() => scrollToSection('rooms')} className="bg-primary hover:bg-primary/90">
@@ -389,7 +389,7 @@ const Index = () => {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground leading-relaxed">
-                  Отель "Альбасар" - это уютное место, где каждый гость чувствует себя как дома. 
+                  Отель "Алькасар" - это уютное место, где каждый гость чувствует себя как дома. 
                   Мы предлагаем комфортабельные номера, качественный сервис и внимательное отношение к каждому гостю.
                 </p>
                 <p className="text-muted-foreground leading-relaxed mt-4">
@@ -421,10 +421,10 @@ const Index = () => {
               alt="Альбасар" 
               className="h-8 w-8 object-contain"
             />
-            <span className="text-xl font-bold text-primary">Альбасар</span>
+            <span className="text-xl font-bold text-primary">Алькасар</span>
           </div>
           <p className="text-muted-foreground text-sm">
-            © 2024 Отель-клуб Альбасар. Все права защищены.
+            © 2024 Отель-клуб Алькасар. Все права защищены.
           </p>
         </div>
       </footer>
