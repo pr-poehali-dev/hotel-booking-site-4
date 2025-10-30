@@ -28,7 +28,7 @@ const Index = () => {
     },
     {
       id: 2,
-      name: 'Люкс',
+      name: 'Комфорт',
       price: 6500,
       image: 'https://cdn.poehali.dev/projects/236b2027-2a09-4b02-8e11-9ac4bef37fa2/files/90f0b263-60fe-4e01-bc93-d24c11639733.jpg',
       features: ['2-3 человека', 'King Size кровать', 'Джакузи', 'Мини-бар', 'Wi-Fi'],
