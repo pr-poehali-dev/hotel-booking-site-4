@@ -81,7 +81,7 @@ const Index = () => {
               />
               <div>
                 <h1 className="text-2xl font-bold text-primary">Алькасар</h1>
-                <p className="text-xs text-muted-foreground">Отель-клуб</p>
+                <p className="text-xs text-muted-foreground">Гостиница</p>
               </div>
             </div>
             <div className="hidden md:flex gap-6">
@@ -424,7 +424,7 @@ const Index = () => {
             <span className="text-xl font-bold text-primary">Алькасар</span>
           </div>
           <p className="text-muted-foreground text-sm">
-            © 2024 Отель-клуб Алькасар. Все права защищены.
+            © 2024 Гостиница Алькасар. Все права защищены.
           </p>
         </div>
       </footer>
