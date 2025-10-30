@@ -21,20 +21,34 @@ const Index = () => {
   const rooms = [
     {
       id: 1,
+      name: 'Эконом',
+      price: 2500,
+      image: 'https://cdn.poehali.dev/projects/236b2027-2a09-4b02-8e11-9ac4bef37fa2/files/22c43054-63f8-4471-89f3-d994f38437a1.jpg',
+      features: ['1-2 человека', 'Односпальная кровать', 'Душ', 'Wi-Fi'],
+    },
+    {
+      id: 2,
       name: 'Стандартный номер',
       price: 3500,
       image: 'https://cdn.poehali.dev/projects/236b2027-2a09-4b02-8e11-9ac4bef37fa2/files/b1d3768a-be1b-4a0f-9c5f-6729eea935ea.jpg',
       features: ['2 человека', 'Двуспальная кровать', 'Ванная комната', 'Wi-Fi'],
     },
     {
-      id: 2,
+      id: 3,
+      name: 'Стандарт улучшенный',
+      price: 4500,
+      image: 'https://cdn.poehali.dev/projects/236b2027-2a09-4b02-8e11-9ac4bef37fa2/files/023026a9-84ea-4cb5-9a60-c97f51f93d7d.jpg',
+      features: ['2 человека', 'Двуспальная кровать', 'Балкон', 'Мини-бар', 'Wi-Fi'],
+    },
+    {
+      id: 4,
       name: 'Комфорт',
       price: 6500,
       image: 'https://cdn.poehali.dev/projects/236b2027-2a09-4b02-8e11-9ac4bef37fa2/files/90f0b263-60fe-4e01-bc93-d24c11639733.jpg',
       features: ['2-3 человека', 'King Size кровать', 'Джакузи', 'Мини-бар', 'Wi-Fi'],
     },
     {
-      id: 3,
+      id: 5,
       name: 'Семейный номер',
       price: 5500,
       image: 'https://cdn.poehali.dev/projects/236b2027-2a09-4b02-8e11-9ac4bef37fa2/files/831ee599-5d73-4f71-bffb-ec17c880eb2b.jpg',
