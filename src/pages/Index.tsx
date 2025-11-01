@@ -139,7 +139,7 @@ const Index = () => {
           <div className="absolute inset-0 bg-gradient-to-b from-black/50 to-black/30" />
         </div>
         <div className="relative z-10 text-center text-white px-4 animate-fade-in">
-          <h2 className="text-5xl md:text-7xl font-bold mb-4">Добро пожаловать в Алькасар</h2>
+          <h2 className="text-5xl md:text-7xl font-bold mb-4">Добро пожаловать в отель - кафе "Алькасар"</h2>
           <p className="text-xl md:text-2xl mb-8 text-white/90">Уют и комфорт как дома</p>
           <div className="flex gap-4 justify-center">
             <Button size="lg" onClick={() => scrollToSection('rooms')} className="bg-primary hover:bg-primary/90">
