@@ -35,7 +35,7 @@ const Index = () => {
     },
     {
       id: 3,
-      name: 'Стандартный номер',
+      name: 'Стандартный номер с 2х спальной кроватью',
       price: 3500,
       image: 'https://cdn.poehali.dev/projects/236b2027-2a09-4b02-8e11-9ac4bef37fa2/files/b1d3768a-be1b-4a0f-9c5f-6729eea935ea.jpg',
       features: ['2 человека', 'Двуспальная кровать', 'Ванная комната', 'Wi-Fi'],
