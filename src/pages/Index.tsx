@@ -56,7 +56,7 @@ const Index = () => {
     },
     {
       id: 6,
-      name: 'Семейный номер',
+      name: 'Семейный номер 4х местный',
       price: 5500,
       image: 'https://cdn.poehali.dev/projects/236b2027-2a09-4b02-8e11-9ac4bef37fa2/files/831ee599-5d73-4f71-bffb-ec17c880eb2b.jpg',
       features: ['4 человека', '2 двуспальные кровати', 'Гостиная зона', 'Wi-Fi'],
