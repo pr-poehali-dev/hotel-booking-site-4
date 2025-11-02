@@ -353,6 +353,8 @@ const Index = () => {
               { image: 'https://cdn.poehali.dev/files/48f4de9f-f6dc-48f8-b8c8-f90779b61388.jpg', title: 'Тренажёрный зал' },
               { image: 'https://cdn.poehali.dev/files/9c3ef056-5d66-4e09-a5cc-7fea5878c8f9.jpg', title: 'Зона отдыха' },
               { image: 'https://cdn.poehali.dev/files/2797acf1-5b07-4312-bd4d-5d29e827dd2e.jpg', title: 'Зона отдыха' },
+              { image: 'https://cdn.poehali.dev/files/67791adc-4c01-42ff-b823-4686adf27aa4.jpg', title: 'Зона релакса' },
+              { image: 'https://cdn.poehali.dev/files/a9ccc741-c1a4-4b5d-b060-de4cbf991958.jpg', title: 'Ресепшн' },
               { image: 'https://cdn.poehali.dev/files/c46e3b83-06e7-43de-abf0-f931448a5f19.jpg', title: 'Холл' },
               ...rooms.map(room => ({ image: room.image, title: room.name }))
             ].map((item, index) => (
