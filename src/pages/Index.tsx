@@ -409,7 +409,7 @@ const Index = () => {
                   <Icon name="MapPin" className="h-5 w-5 text-primary mt-1" />
                   <div>
                     <p className="font-semibold">Адрес</p>
-                    <p className="text-muted-foreground">г. Москва, ул. Примерная, д. 123</p>
+                    <p className="text-muted-foreground">г. Егорьевск, Сиреневый переулок, д. 7</p>
                   </div>
                 </div>
                 <Separator />
@@ -417,7 +417,7 @@ const Index = () => {
                   <Icon name="Phone" className="h-5 w-5 text-primary mt-1" />
                   <div>
                     <p className="font-semibold">Телефон</p>
-                    <p className="text-muted-foreground">+7 (495) 123-45-67</p>
+                    <p className="text-muted-foreground">+7 (916) 119-80-19</p>
                   </div>
                 </div>
                 <Separator />
@@ -425,7 +425,7 @@ const Index = () => {
                   <Icon name="Mail" className="h-5 w-5 text-primary mt-1" />
                   <div>
                     <p className="font-semibold">Email</p>
-                    <p className="text-muted-foreground">info@albasar.ru</p>
+                    <p className="text-muted-foreground">alkasar@internet.ru</p>
                   </div>
                 </div>
                 <Separator />
