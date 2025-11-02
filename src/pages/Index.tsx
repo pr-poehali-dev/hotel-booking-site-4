@@ -52,7 +52,7 @@ const Index = () => {
       name: 'Стандарт улучшенный с раздельными кроватями',
       price: 4500,
       image: 'https://cdn.poehali.dev/projects/236b2027-2a09-4b02-8e11-9ac4bef37fa2/files/023026a9-84ea-4cb5-9a60-c97f51f93d7d.jpg',
-      features: ['2 человека', '2 односпальные кровати', 'Мини-бар', 'Wi-Fi'],
+      features: ['2 человека', '2 односпальные кровати', 'Wi-Fi'],
     },
     {
       id: 6,
