@@ -44,7 +44,7 @@ const Index = () => {
       id: 4,
       name: 'Стандартный номер с раздельными кроватями',
       price: 3500,
-      image: 'https://cdn.poehali.dev/projects/236b2027-2a09-4b02-8e11-9ac4bef37fa2/files/8fef855b-c03d-4483-a6f3-43eae6e732fc.jpg',
+      image: 'https://cdn.poehali.dev/files/f73a4363-41ae-4116-a5a3-606f96fd7d40.jpg',
       features: ['2 человека', '2 односпальные кровати', 'Ванная комната', 'Wi-Fi'],
     },
     {
