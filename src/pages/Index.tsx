@@ -30,7 +30,7 @@ const Index = () => {
       id: 2,
       name: 'Эконом с раздельными кроватями',
       price: 3500,
-      image: 'https://cdn.poehali.dev/projects/236b2027-2a09-4b02-8e11-9ac4bef37fa2/files/16a69ffe-e152-46a9-82ca-7d0dd81aded3.jpg',
+      image: 'https://cdn.poehali.dev/files/653b2425-1696-44c5-91ba-57a61aca6b1c.jpg',
       features: ['2 человека', '2 односпальные кровати', 'Бесплатный Wi-Fi', 'TV'],
     },
     {
