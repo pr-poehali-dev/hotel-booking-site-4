@@ -52,14 +52,14 @@ const Index = () => {
       name: 'Стандарт улучшенный с раздельными кроватями',
       price: 4500,
       image: 'https://cdn.poehali.dev/files/6ce3c9e4-c596-4271-954a-2956dd48aefc.jpg',
-      features: ['2 человека', '2 односпальные кровати', 'Wi-Fi'],
+      features: ['2 человека', '2 односпальные кровати', 'Wi-Fi', 'Чайный набор'],
     },
     {
       id: 6,
       name: 'Комфорт',
       price: 4500,
       image: 'https://cdn.poehali.dev/files/150a0ea7-4396-46ed-a0e1-aa32928c2981.jpg',
-      features: ['2 человека', 'Двухспальная кровать', 'Бесплатный Wi-Fi', 'TV', 'Халаты', 'Тапочки', 'Фен', 'Кондиционер', 'Чайный набор'],
+      features: ['2 человека', 'Двухспальная кровать', 'Бесплатный Wi-Fi', 'TV', 'Халаты', 'Тапочки', 'Фен', 'Кондиционер', 'Чайный набор', 'Бутылка воды'],
       gallery: [
         'https://cdn.poehali.dev/files/150a0ea7-4396-46ed-a0e1-aa32928c2981.jpg',
         'https://cdn.poehali.dev/files/62600d35-1687-46dc-b141-35c01209c2f4.jpg',
@@ -73,7 +73,7 @@ const Index = () => {
       name: 'Семейный номер 4х местный',
       price: 5500,
       image: 'https://cdn.poehali.dev/files/e0332dff-142d-4b3a-b6b8-adcc7226b2cf.jpg',
-      features: ['4 человека', '1 двуспальная кровать', '1 односпальная кровать', 'Диван', 'Гостиная зона', 'Wi-Fi'],
+      features: ['4 человека', '1 двуспальная кровать', '1 односпальная кровать', 'Диван', 'Гостиная зона', 'Wi-Fi', 'Чайный набор', 'Бутылка воды'],
       gallery: [
         'https://cdn.poehali.dev/files/e0332dff-142d-4b3a-b6b8-adcc7226b2cf.jpg',
         'https://cdn.poehali.dev/files/286dac7c-265b-4d7c-a570-7ca9a92564d7.jpg',
