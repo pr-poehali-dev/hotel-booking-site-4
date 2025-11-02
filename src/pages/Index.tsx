@@ -86,8 +86,14 @@ const Index = () => {
       id: 8,
       name: 'Семейный 5-ти местный',
       price: 6000,
-      image: 'https://cdn.poehali.dev/projects/236b2027-2a09-4b02-8e11-9ac4bef37fa2/files/facf8d30-60cb-427d-b1aa-43711b0f7880.jpg',
+      image: 'https://cdn.poehali.dev/files/77c330ff-b893-4d3d-94b8-125f5db6e539.jpg',
       features: ['5 человек', '1 двуспальная кровать', '3 односпальные кровати', 'Гостиная зона', 'Wi-Fi', 'TV'],
+      gallery: [
+        'https://cdn.poehali.dev/files/77c330ff-b893-4d3d-94b8-125f5db6e539.jpg',
+        'https://cdn.poehali.dev/files/189b7f10-4c8f-460d-aa50-b170c831664e.jpg',
+        'https://cdn.poehali.dev/files/b7de35a0-46cc-4f13-8215-e00c0be2f615.jpg',
+        'https://cdn.poehali.dev/files/49570488-fd4c-4288-a7ed-3d7cc58b0400.jpg'
+      ],
     },
   ];
 
