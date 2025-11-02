@@ -101,7 +101,7 @@ const Index = () => {
     { icon: 'Wifi', title: 'Бесплатный Wi-Fi', description: 'Высокоскоростной интернет во всех номерах' },
     { icon: 'UtensilsCrossed', title: 'Ресторан', description: 'Европейская и местная кухня' },
     { icon: 'Car', title: 'Парковка', description: 'Бесплатная охраняемая парковка' },
-    { icon: 'Waves', title: 'SPA-центр', description: 'Бассейн, сауна, массаж' },
+    { icon: 'Dumbbell', title: 'Тренажёрный зал', description: 'Современное оборудование для фитнеса' },
     { icon: 'Coffee', title: 'Завтрак', description: 'Континентальный завтрак включен' },
     { icon: 'Clock', title: '24/7 Reception', description: 'Круглосуточная стойка регистрации' },
   ];
