@@ -72,8 +72,15 @@ const Index = () => {
       id: 7,
       name: 'Семейный номер 4х местный',
       price: 5500,
-      image: 'https://cdn.poehali.dev/projects/236b2027-2a09-4b02-8e11-9ac4bef37fa2/files/831ee599-5d73-4f71-bffb-ec17c880eb2b.jpg',
+      image: 'https://cdn.poehali.dev/files/e0332dff-142d-4b3a-b6b8-adcc7226b2cf.jpg',
       features: ['4 человека', '1 двуспальная кровать', '1 односпальная кровать', 'Диван', 'Гостиная зона', 'Wi-Fi'],
+      gallery: [
+        'https://cdn.poehali.dev/files/e0332dff-142d-4b3a-b6b8-adcc7226b2cf.jpg',
+        'https://cdn.poehali.dev/files/286dac7c-265b-4d7c-a570-7ca9a92564d7.jpg',
+        'https://cdn.poehali.dev/files/877229dc-6e6e-47b8-b42c-f2ec1336915b.jpg',
+        'https://cdn.poehali.dev/files/874f983e-0f7a-4be7-bcea-1c68eb99ce18.jpg',
+        'https://cdn.poehali.dev/files/f46f7c87-9133-4774-ad6f-27bd4766ecb6.jpg'
+      ],
     },
     {
       id: 8,
