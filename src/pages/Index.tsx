@@ -58,8 +58,15 @@ const Index = () => {
       id: 6,
       name: 'Комфорт',
       price: 4500,
-      image: 'https://cdn.poehali.dev/projects/236b2027-2a09-4b02-8e11-9ac4bef37fa2/files/90f0b263-60fe-4e01-bc93-d24c11639733.jpg',
+      image: 'https://cdn.poehali.dev/files/150a0ea7-4396-46ed-a0e1-aa32928c2981.jpg',
       features: ['2 человека', 'Двухспальная кровать', 'Бесплатный Wi-Fi', 'TV', 'Халаты', 'Тапочки', 'Фен', 'Кондиционер', 'Чайный набор'],
+      gallery: [
+        'https://cdn.poehali.dev/files/150a0ea7-4396-46ed-a0e1-aa32928c2981.jpg',
+        'https://cdn.poehali.dev/files/62600d35-1687-46dc-b141-35c01209c2f4.jpg',
+        'https://cdn.poehali.dev/files/0471522b-054e-4ac8-b82e-b45f2f19575a.jpg',
+        'https://cdn.poehali.dev/files/16de4666-6a7e-4b07-ab4d-0ce902511308.jpg',
+        'https://cdn.poehali.dev/files/5c6bec9c-7c81-41a2-9440-5ab94a306c9e.jpg'
+      ],
     },
     {
       id: 7,
