@@ -348,15 +348,22 @@ const Index = () => {
             <p className="text-muted-foreground text-lg">Посмотрите, как уютно у нас</p>
           </div>
           <div className="grid md:grid-cols-3 gap-4">
-            {rooms.map((room, index) => (
+            {[
+              { image: 'https://cdn.poehali.dev/files/54788ed6-2717-466d-a2f5-95acfcf69db1.jpg', title: 'Тренажёрный зал' },
+              { image: 'https://cdn.poehali.dev/files/48f4de9f-f6dc-48f8-b8c8-f90779b61388.jpg', title: 'Тренажёрный зал' },
+              { image: 'https://cdn.poehali.dev/files/9c3ef056-5d66-4e09-a5cc-7fea5878c8f9.jpg', title: 'Зона отдыха' },
+              { image: 'https://cdn.poehali.dev/files/2797acf1-5b07-4312-bd4d-5d29e827dd2e.jpg', title: 'Зона отдыха' },
+              { image: 'https://cdn.poehali.dev/files/c46e3b83-06e7-43de-abf0-f931448a5f19.jpg', title: 'Холл' },
+              ...rooms.map(room => ({ image: room.image, title: room.name }))
+            ].map((item, index) => (
               <div key={index} className="relative h-80 overflow-hidden rounded-lg group animate-scale-in" style={{ animationDelay: `${index * 100}ms` }}>
                 <img 
-                  src={room.image} 
+                  src={item.image} 
                   alt={`Gallery ${index + 1}`}
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-6">
-                  <p className="text-white font-semibold text-lg">{room.name}</p>
+                  <p className="text-white font-semibold text-lg">{item.title}</p>
                 </div>
               </div>
             ))}
