@@ -23,7 +23,7 @@ const Index = () => {
       id: 1,
       name: 'Эконом с одной односпальной кроватью',
       price: 3000,
-      image: 'https://cdn.poehali.dev/projects/236b2027-2a09-4b02-8e11-9ac4bef37fa2/files/22c43054-63f8-4471-89f3-d994f38437a1.jpg',
+      image: 'https://cdn.poehali.dev/files/52eb5a3e-547d-4c3d-8dee-24e6f41b68dc.jpg',
       features: ['1 человек', 'Односпальная кровать', 'Бесплатный Wi-Fi', 'TV'],
     },
     {
